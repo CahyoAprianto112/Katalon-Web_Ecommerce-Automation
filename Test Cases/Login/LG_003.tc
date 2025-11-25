@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>login without input credentials</description>
+   <name>LG_003</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1ad6b376-df31-4995-b379-1894b7dfa05f</testCaseGuid>
+</TestCaseEntity>

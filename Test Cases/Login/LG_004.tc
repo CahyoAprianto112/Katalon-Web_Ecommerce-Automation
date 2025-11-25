@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>As a user i want to login without input password</description>
+   <name>LG_004</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c87c4916-f5a4-424d-a5cc-0cea73592db1</testCaseGuid>
+</TestCaseEntity>
