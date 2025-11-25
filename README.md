@@ -14,6 +14,3 @@ Automation testing untuk fitur **Login** dan **Add to Cart** di Swag Labs menggu
 
 ## ▶️ Run Test
 Jalankan melalui **Test Suite: TS_Login_And_AddToCart**.
-
-## 🧑‍💻 Author
-Nur Cahyo Aprianto
