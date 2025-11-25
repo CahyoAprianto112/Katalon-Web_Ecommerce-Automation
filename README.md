@@ -2,10 +2,9 @@
 
 Automation testing untuk fitur **Login** dan **Add to Cart** di Swag Labs menggunakan Katalon Studio.
 
-## 🔧 Tech Stack
+## 🔧 Tools
 - Katalon Studio  
-- Groovy  
-- Selenium WebDriver  
+- WebUI Automation (built-in Katalon)  
 
 ## 🧪 Test Coverage
 - Valid & invalid login  
@@ -15,3 +14,6 @@ Automation testing untuk fitur **Login** dan **Add to Cart** di Swag Labs menggu
 
 ## ▶️ Run Test
 Jalankan melalui **Test Suite: TS_Login_And_AddToCart**.
+
+## 🧑‍💻 Author
+Nur Cahyo Aprianto
