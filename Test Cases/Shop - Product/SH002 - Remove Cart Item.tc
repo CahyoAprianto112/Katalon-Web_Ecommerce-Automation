@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SH002 - Remove Cart Item</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1f5e2b94-aa99-4b45-9894-e9888553ddd3</testCaseGuid>
+</TestCaseEntity>
