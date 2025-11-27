@@ -29,4 +29,3 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Login/LG_001 - Valid/Pa
     'qcu24s4901FyWDTwXGr6XA==')
 
 WebUI.click(findTestObject('Object Repository/Login/LG_001 - Valid/Page_Swag Labs/input_Swag Labs_login-button'))
-

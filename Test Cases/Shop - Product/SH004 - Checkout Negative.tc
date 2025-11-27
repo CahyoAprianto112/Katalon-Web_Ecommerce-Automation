@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SH004 - Checkout Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cdd531c3-81c0-4d6a-87a5-73fe5634ac32</testCaseGuid>
+</TestCaseEntity>

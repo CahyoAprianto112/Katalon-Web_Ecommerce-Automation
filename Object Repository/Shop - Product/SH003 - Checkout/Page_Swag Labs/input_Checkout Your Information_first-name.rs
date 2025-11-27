@@ -1,126 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Swag Labs_login-button</name>
+   <name>input_Checkout Your Information_first-name</name>
    <tag></tag>
-   <elementGuidId>e0df1878-4ad3-4ef1-bc45-85513f5477f9</elementGuidId>
+   <elementGuidId>e41efa3c-fdfd-40e3-a446-2eb516bc36a4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='login-button']</value>
+         <value>//input[@id='first-name']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#login-button</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>id(&quot;login-button&quot;)[count(. | //input[@type = 'submit' and @class = 'submit-button btn_action' and @data-test = 'login-button' and @id = 'login-button' and @name = 'login-button' and @value = 'Login']) = count(//input[@type = 'submit' and @class = 'submit-button btn_action' and @data-test = 'login-button' and @id = 'login-button' and @name = 'login-button' and @value = 'Login'])]</value>
+         <value>#first-name</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>[data-test=&quot;login-button&quot;]</value>
+         <value>[data-test=&quot;firstName&quot;]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9c040314-6b53-48da-900b-20735bd3372b</webElementGuid>
+      <webElementGuid>427b37a6-6ac6-4478-803d-78f0a15d50a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input_error form_input</value>
+      <webElementGuid>3b4c01d8-eef5-4a3a-a96c-298cc8010fb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>First Name</value>
+      <webElementGuid>b52224b7-459b-47e8-8270-f5c7c62b3603</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>71ae0159-736c-42ac-8ea4-33085a01e393</webElementGuid>
+      <value>text</value>
+      <webElementGuid>05879920-d906-4dc8-a593-5fcc2658ceed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>submit-button btn_action</value>
-      <webElementGuid>6e948808-95a4-4320-809b-06b3d5f68cad</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-test</name>
       <type>Main</type>
-      <value>login-button</value>
-      <webElementGuid>c3072a46-194c-4f00-a559-75661cc01065</webElementGuid>
+      <value>firstName</value>
+      <webElementGuid>7369eda9-a308-4c50-b1db-c5159bc0d7aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>login-button</value>
-      <webElementGuid>c8aec6f8-58e4-4cec-8a99-24e5ec8b0d38</webElementGuid>
+      <value>first-name</value>
+      <webElementGuid>7c1b736b-ffa8-41d8-a4b3-223d382bbfd1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>login-button</value>
-      <webElementGuid>077a08a6-e778-444a-b491-45b19c5212e6</webElementGuid>
+      <value>firstName</value>
+      <webElementGuid>3f6e5028-fd27-482d-8bec-1576594cbf32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>autocorrect</name>
       <type>Main</type>
-      <value>Login</value>
-      <webElementGuid>ff274439-bae6-4e87-9ec9-729690e4e25e</webElementGuid>
+      <value>off</value>
+      <webElementGuid>5cd31a90-8d4b-4df2-be88-8a0e920db499</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocapitalize</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>afea4108-2097-466c-8f5c-bae5a8d0918a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;login-button&quot;)</value>
-      <webElementGuid>062883a9-b3e1-4a59-94c9-50d4290e7e6b</webElementGuid>
+      <value>id(&quot;first-name&quot;)</value>
+      <webElementGuid>f4c2f856-a2d5-43d4-b552-f477d094b017</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='login-button']</value>
-      <webElementGuid>16c02eca-5c3a-4c30-a1f0-860e2ec38af1</webElementGuid>
+      <value>//input[@id='first-name']</value>
+      <webElementGuid>d28b62c5-3e14-4bf5-9a44-017ea23d28de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='login_button_container']/div/form/input</value>
-      <webElementGuid>3edcab78-5c9a-47d6-9029-d68c68e3693d</webElementGuid>
+      <value>//div[@id='checkout_info_container']/div/form/div/div/input</value>
+      <webElementGuid>5b09a2c9-f17b-4bf6-b4e0-af1940f80400</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//form/input</value>
-      <webElementGuid>4c47eb0a-630b-48a9-abd7-8da8cbe7b28b</webElementGuid>
+      <value>//input</value>
+      <webElementGuid>9e70d894-b4d2-4bee-907e-e1bd14330e33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'submit' and @id = 'login-button' and @name = 'login-button']</value>
-      <webElementGuid>e605d858-3ad4-4fea-8d72-6343f1e44198</webElementGuid>
+      <value>//input[@placeholder = 'First Name' and @type = 'text' and @id = 'first-name' and @name = 'firstName']</value>
+      <webElementGuid>1ade40c5-fc27-4aad-a062-c46fe3c4c6d7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
